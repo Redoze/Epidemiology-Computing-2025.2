@@ -11,18 +11,22 @@ Para o pleno funcionamento deste código é necessário instalar:
 ## Execução
 
 ### 1. Clone o repositório
-```bash
+
 git clone [https://github.com/Redoze/Epidemiology-Computing-2025.2.git](https://github.com/Redoze/Epidemiology-Computing-2025.2.git)
+```bash
 cd Epidemiology-Computing-2025.2
 ```
 
 ### 2. Crie um ambiente virtual
-```bash
+
 # No Windows
+```bash
 python -m venv venv
 .\venv\Scripts\activate
+```
 
 # No Linux/Mac
+```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
